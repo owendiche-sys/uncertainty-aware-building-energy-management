@@ -1,0 +1,26 @@
+{
+  "selected_buildings": [
+    "Hog_office_Lavon",
+    "Lamb_office_Caitlin",
+    "Robin_office_Lindsay"
+  ],
+  "interval_vs_point_objective_change_pct": -1.0605716271301389,
+  "interval_vs_point_peak_reduction_pct": 2.8714620543349048,
+  "finding": "The interval-aware policy increased the realised objective by 1.06% relative to point-forecast scheduling, while reducing mean peak demand by 2.87%. Peak demand fell in 3 of 3 buildings, but the combined objective improved in only 1 of 3. Under this scenario, uncertainty changed the cost\u2013risk trade-off rather than improving every objective.",
+  "decision_days": 327,
+  "config": {
+    "root": "C:\\Users\\Owen\\Documents\\ChatGPT\\phd applications\\uncertainty-aware-building-energy",
+    "n_buildings": 3,
+    "horizon": 24,
+    "interval_alpha": 0.1,
+    "random_state": 2027,
+    "train_fraction": 0.7,
+    "calibration_fraction": 0.15,
+    "min_coverage": 0.97,
+    "battery_hours": 4.0,
+    "battery_efficiency": 0.95,
+    "demand_charge": 0.45,
+    "carbon_price": 0.12,
+    "interval_risk_aversion": 0.35
+  }
+}

@@ -1,0 +1,4 @@
+building_id,site_id,sub_primaryspaceusage,sqm,coverage,mean_load,std_load,coefficient_of_variation
+Hog_office_Lavon,Hog,Office,1530.3,1.0,268.53497332421347,435.6375347504099,1.622274854398375
+Lamb_office_Caitlin,Lamb,Office,3365.0,1.0,24.744957763337894,36.279279160920815,1.4661281505467818
+Robin_office_Lindsay,Robin,Office,5358.0,1.0,45.64076044231646,30.288423687166514,0.6636266222042213

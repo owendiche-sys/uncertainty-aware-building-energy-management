@@ -1,0 +1,4 @@
+building_id,nominal_coverage,empirical_coverage,mean_interval_width,normalised_width,conformal_adjustment,calibration_predictions,test_predictions,train_origins,calibration_origins,test_origins
+Hog_office_Lavon,0.9,0.9774464831804281,461.2255127898916,2.647483762049046,181.6823395845695,2592,2616,506,108,109
+Lamb_office_Caitlin,0.9,0.8509174311926605,33.52536375880708,0.8777028983480479,6.398839661864685e-07,2592,2616,506,108,109
+Robin_office_Lindsay,0.9,0.8509174311926605,62.62488539151258,1.0399216849006727,0.0,2592,2616,506,108,109
